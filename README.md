@@ -61,7 +61,7 @@ Replace your key in the axios URL inside App.jsx:
 
 appid=YOUR_API_KEY
 ## Screenshots
-![Weather Result](screenshots/image.png)
+![Result](screenshots/image.png)
 ## 📁 Project Structure
 src/
 │── App.jsx       
