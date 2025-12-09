@@ -34,14 +34,19 @@ OpenWeatherMap API	Weather data
 git clone https://github.com/tejasbarge/Weather-App.git
 
 # Go into the project folder
-cd weather-app
+``` 
+cd weather-app 
+```
 
 # Install dependencies
+```
 npm install
+```
 
 # Start the app
+```
 npm run dev
-
+```
 
 Your app will run at:
 👉 http://localhost:5173
