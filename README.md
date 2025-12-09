@@ -30,6 +30,9 @@ Axios	HTTP requests
 Tailwind CSS	Styling
 OpenWeatherMap API	Weather data
 🔧 Installation
+
+# Link
+https://weather-app-by-tejas.netlify.app/
 # Clone the repository
 git clone https://github.com/tejasbarge/Weather-App.git
 
